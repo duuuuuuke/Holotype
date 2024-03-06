@@ -64,7 +64,3 @@ We provide an expert user account for reference.
 ## About future plans:
 
 There are some features to be developed, and we will have hints when clicking the button does not respond.
-
-## About reference:
-
-Our code borrows some APIs. Specific references about API are included in the report.
