@@ -60,7 +60,3 @@ We provide an expert user account for reference.
 
 -   email for expert user: expertone@qq.com
 -   password for expert user: 123456
-
-## About future plans:
-
-There are some features to be developed, and we will have hints when clicking the button does not respond.
