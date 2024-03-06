@@ -1,0 +1,8 @@
+大标题
+Abril Fatface 大小：28 颜色：2C5E46
+
+小字
+Arial bold 大小：10 颜色：2C5E46
+
+数字
+Abril Fatface 大小：30 颜色：FF8A00
