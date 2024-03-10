@@ -2,8 +2,6 @@
 
 A mobile app helps accelerate the process of discovering potential new plants with image recognition and community vote. We used Flutter and Firebase for this project.
 
-Kick starter video: https://www.youtube.com/watch?v=vLD2kKtSWSM&ab_channel=JayJay
-
 ## Setup steps:
 
 -   First, Install AndroidStudio.
